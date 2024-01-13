@@ -1,5 +1,3 @@
-Certainly! I noticed that the username used in the last README file was "sudhanshusr007". Here's the modified README file with your username:
-
 # SnapNotes
 
 SnapNotes is a straightforward notes-taking web app developed with HTML, CSS, and JavaScript. It provides users with a convenient way to capture and organize their notes, utilizing the browser's local storage for data persistence.
