@@ -2,6 +2,22 @@
 
 SnapNotes is a straightforward notes-taking web app developed with HTML, CSS, and JavaScript. It provides users with a convenient way to capture and organize their notes, utilizing the browser's local storage for data persistence.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Demo](#demo)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Local Storage](#local-storage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+## Introduction
+
+SnapNotes is designed for quick and efficient note-taking, providing users with a simple and intuitive platform to organize their thoughts. It leverages local storage to ensure seamless access to notes across different sessions.
+
 ## Features
 
 - Quickly take and organize notes.
@@ -21,7 +37,7 @@ Explore a live demo of SnapNotes [here](https://sudhanshusr007.github.io/SnapNot
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/SnapNotes.git
+git clone https://github.com/sudhanshusr007/SnapNotes.git
 cd snapnotes
 ```
 
@@ -45,3 +61,7 @@ Feel free to contribute to SnapNotes by forking the repository and creating a pu
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Inspired by the need for a simple and effective notes-taking solution.
